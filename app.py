@@ -11,7 +11,7 @@ class CompanyProfile:
         self.email = email
         self.contact = contact
     def add(self):
-        with open("list_of_IT_companay.md","a",newline="") as f:
+        with open("README.md","a",newline="") as f:
             data = f''' |{self.name} | [GOTO]({self.website}) | {self.domain} | {self.email} | {self.address} |{self.contact}'''
             f.write(data) 
     def git_push(self):
