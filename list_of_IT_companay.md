@@ -1,3 +1,0 @@
-|Company Name|Website_link|Domain|Email|Physical Address|
-|----------|:-------------:|------:|------:|---------:|
-|Genese Software | [Website_link](https://www.genesesofts.com/contact-us/) | Cloud Computing | info@genesesofts.com | Durbarthok Marg, Pokhara, Nepal  Genese Software | [Website_link](https://www.genesesofts.com) | Cloud Computing | info@genesesofts.com | Durbarthok Marg, Pokhara, Nepal  |Genese Software | [GOTO](https://www.genesesofts.com) | Cloud Computing | info@genesesofts.com | Durbarthok Marg, Pokhara, Nepal  |Genese Software | [GOTO](https://www.genesesofts.com) | Cloud Computing | info@genesesofts.com | Durbarthok Marg, Pokhara |97761541114
