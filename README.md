@@ -3,3 +3,4 @@ This is the list of IT companies in pokhara.It helps you to get internship and j
 ------
 |Company Name|Website_link|Domain|Email|Physical Address|Contact Number|
 |----------|:-------------:|------:|------:|---------:|--------:| 
+

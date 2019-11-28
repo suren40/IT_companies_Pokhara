@@ -34,4 +34,4 @@ if __name__ == "__main__":
     domain = input("Which is the domain of company ")
     company = CompanyProfile(name,address,website,email,domain,contact)
     company.add()
-    #company.git_push()
+    company.git_push()
