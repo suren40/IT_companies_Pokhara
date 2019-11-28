@@ -26,12 +26,12 @@ class CompanyProfile:
 
 if __name__ == "__main__":
     print("Enter the details of company \n")
-    name = input("Enter the name of company")
-    website = input("provide the link of company")
-    address = input("Address of the company")
-    contact = input("Contact number of the company")
-    email = input("Email")
-    domain = input("Which is the domain of company")
+    name = input("Enter the name of company ")
+    website = input("provide the link of company ")
+    address = input("Address of the company ")
+    contact = input("Contact number of the company ")
+    email = input("Email ")
+    domain = input("Which is the domain of company ")
     company = CompanyProfile(name,address,website,email,domain,contact)
     company.add()
     company.git_push()
