@@ -12,7 +12,7 @@ class CompanyProfile:
         self.contact = contact
     def add(self):
         with open("README.md","a",newline="") as f:
-            data = f''' |{self.name} | [GOTO]({self.website}) | {self.domain} | {self.email} | {self.address} |{self.contact}'''
+            data = f'|{self.name} | [GOTO]({self.website}) | {self.domain} | {self.email} | {self.address} |{self.contact}| \n'
             f.write(data) 
     def git_push(self):
         os.system("git add .")
@@ -34,4 +34,4 @@ if __name__ == "__main__":
     domain = input("Which is the domain of company ")
     company = CompanyProfile(name,address,website,email,domain,contact)
     company.add()
-    company.git_push()
+    #company.git_push()
