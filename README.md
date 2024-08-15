@@ -8,3 +8,4 @@ This is the list of IT companies in pokhara.It helps you to get internship and j
 |Web Soft Nepal | [GOTO](http://www.websoftnepal.com.np/) | Software and web | info@websoftnepal.com.np | Srijana Chowk, Pokhara |+977 61 538358| 
 |Jankari Tech | [GOTO](https://www.jankaritech.com/) | Testing, QA | info@jankaritech.com | Rishi Marga, |061-620999| 
 |Tonic Byte | [GOTO](https://www.tonicbyte.com/) | Web Development, Mobile Development, Cloud Computing, Innovation | contact@tonicbyte.com | Zero KM, |+9779849951111| 
+|Skybase Innovations | [GOTO](https://www.skybase.com.np/) | Mobile & Web App Development | info@skybase.com.np | New Road, Pokhara | +9779845533797 | 
