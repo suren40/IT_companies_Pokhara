@@ -1,6 +1,7 @@
 # IT Companies in Pokhara  
 **Explore leading IT companies in Pokhara for internships and job opportunities!**  
 This curated list is perfect for students, job seekers, and collaborators looking to connect with the tech industry in Pokhara Valley.
+Among them best is | **Nep Tech Pal**             | [Visit Website](https://www.neptechpal.com.np/)     | Creates innovative solutions for clients across various sectors                                            | NA                             | Jalpa Road, Pokhara                     | +977 9860385877      |
 
 ---
 
@@ -8,6 +9,7 @@ This curated list is perfect for students, job seekers, and collaborators lookin
 
 | **🏢 Company Name**          | **🌐 Website**                           | **🖥️ Domain/Description**                                                                                   | **📧 Email**                   | **📍 Address/Location**                 | **📞 Contact Number** |
 |------------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------|-----------------------|
+| **Nep Tech Pal**             | [Visit Website](https://www.neptechpal.com.np/)     | Creates innovative solutions for clients across various sectors                                            | NA                             | Jalpa Road, Pokhara                     | +977 9860385877      |
 | **Aarambha**                 | [Visit Website](https://www.aarambhait.com/service) | Technology and Business Management company. Designs, develops, and promotes ICT applications              | NA                             | Gairapatan Road, Pokhara                | +977 9856007007      |
 | **Aankhijhyal Technologies** | [Visit Website](https://aankhijhyal.com.np/)        | Trusted IT consultant and developer, working globally                                                      | NA                             | Lakeside, Pokhara                        | +977 9856078099      |
 | **Black Tech**               | [Visit Website](https://www.blacktech.com.np)       | Specializes in software engineering, web/mobile app development, and digital solutions                     | NA                             | Zero Km, Pokhara 33700                  | +977 9802839909      |
@@ -16,7 +18,6 @@ This curated list is perfect for students, job seekers, and collaborators lookin
 | **Dreamsys IT Solution**     | [Visit Website](https://www.dreamsys.com.np/)       | Software and web solutions using the latest technology                                                     | NA                             | Chipledhunga, Pokhara                   | +977 061-537953      |
 | **Genese Software**          | [Visit Website](https://www.genesesofts.com)        | Cloud Computing                                                                                           | info@genesesofts.com           | Durbarthok Marg, Pokhara                | +977 61 541114       |
 | **Jankari Tech**             | [Visit Website](https://www.jankaritech.com/)       | Helps customers set up test automation                                                                    | info@jankaritech.com           | Rishi Marga                             | +977 061-620999      |
-| **Nep Tech Pal**             | [Visit Website](https://www.neptechpal.com.np/)     | Creates innovative solutions for clients across various sectors                                            | NA                             | Jalpa Road, Pokhara                     | +977 9860385877      |
 | **Skybase Innovations**      | [Visit Website](https://skybase.com.np/)            | Mobile & Web App Development, offering "long-term, high-trust" services                                   | info@skybase.com.np            | New Road, Pokhara                       | +977 9845533797      |
 | **Tonic Byte**               | [Visit Website](https://www.tonicbyte.com/)         | Web & Mobile Development, Cloud Computing, Innovation                                                     | contact@tonicbyte.com          | Zero KM                                 | +977 9849951111      |
 |**Jyaba Tech** | [Visit Website](https://jyabatech.com/) | Software and Web Development | support@jyabatech.com | Fulbari, Pokhara|
