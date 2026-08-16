@@ -43,7 +43,7 @@ This curated list is perfect for students, job seekers, and collaborators lookin
 | **Insoft research and development** | [Visit Website](https://insoftnepal.com/getintouch/) | AI, cloud-native and custom software engineering | info@insoftnepal.com | Pokhara-8 , gandaki,Nepal | +977 615395 |
 | **ITdeurali** | [Visit Website](https://itdeurali.com/) | Enterprise automation, web and mobile development | itdeurali@gmail.com | Tersapatti Rd, Pokhara 33700 | +977 9806754138 |
 | **Jankari Tech** | [Visit Website](https://www.jankaritech.com/) | Helps customers set up test automation | info@jankaritech.com | 6225+48J, Pokhara 33700 | +977 9806659226 |
-| **Jyaba Tech** | [Visit Website](https://jyabatech.com/) | Software and Web Development | support@jyabatech.com | Newroad, Pokhara | NA |
+| **Jyaba Tech** | [Visit Website](https://jyaba.com/) | Web Scraping and Data Enginering | support@jyaba.com | Newroad, Pokhara | NA |
 | **Lumino Technology** | [Visit Website](https://luminotechnology.com/) | Software, web and app development, digital marketing | hello@luminotechnology.com | Srijana Chowk, Pokhara | +977 9746303527 |
 | **Mandala Tech** | [Visit Website](https://mandalatech.io/) | Software and web application development | hello@mandalatech.io | Lakeside | NA |
 | **MORETECH GLOBAL** | [Visit Website](https://www.moretechglobal.com/) | B2B lead generation, CRM and AI automation | info@moretechglobal.com | Malepatan-5 Pokhara Nepal | +977 9815447780 |
